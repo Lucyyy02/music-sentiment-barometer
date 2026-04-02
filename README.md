@@ -6,7 +6,7 @@
 
 ## Live Dashboard
 
-**[View Interactive Dashboard](https://Lucyyy02.github.io/music-sentiment-barometer/music_sentiment_dashboard.html)**
+**[View Interactive Dashboard](https://Lucyyy02.github.io/music-sentiment-barometer/music_sentiment_dashboard_ver2.html)**
 
 Select any date range from 1958 to 2024 to explore the economic conditions and sonic fingerprint of that era, alongside the top charting songs of the period.
 
