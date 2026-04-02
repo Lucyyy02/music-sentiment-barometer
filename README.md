@@ -14,7 +14,7 @@ Select any date range from 1958 to 2024 to explore the economic conditions and s
 
 ## Hero Chart
 
-![Hero Chart](<img width="2385" height="1621" alt="hero_chart" src="https://github.com/user-attachments/assets/4a404ef1-d2be-40fb-89cf-2ad933691b21" />)
+![Hero Chart](hero_chart.png)
 
 *60-year timeline of average Billboard Hot 100 valence (musical happiness), Okun Misery Index, and Michigan Consumer Sentiment — with NBER recession bands shaded.*
 
